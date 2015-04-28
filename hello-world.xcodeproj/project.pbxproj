@@ -422,6 +422,7 @@
 				13F5158D1AEF9A540032AC7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		13F5158E1AEF9A540032AC7D /* Build configuration list for PBXNativeTarget "hello-worldTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +431,7 @@
 				13F515901AEF9A540032AC7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
